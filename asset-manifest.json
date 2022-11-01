@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dorm8ts.build/static/css/main.dbd8d67e.css",
-    "main.js": "/dorm8ts.build/static/js/main.6cbfc997.js",
+    "main.js": "/dorm8ts.build/static/js/main.2adb5398.js",
     "static/js/787.5bafc09a.chunk.js": "/dorm8ts.build/static/js/787.5bafc09a.chunk.js",
     "static/media/profilepic.jpg": "/dorm8ts.build/static/media/profilepic.8ca34c4c25fe112ad730.jpg",
     "service-worker.js": "/dorm8ts.build/service-worker.js",
@@ -9,11 +9,11 @@
     "static/media/sponges.png": "/dorm8ts.build/static/media/sponges.c69fde9574c54803b56b.png",
     "index.html": "/dorm8ts.build/index.html",
     "main.dbd8d67e.css.map": "/dorm8ts.build/static/css/main.dbd8d67e.css.map",
-    "main.6cbfc997.js.map": "/dorm8ts.build/static/js/main.6cbfc997.js.map",
+    "main.2adb5398.js.map": "/dorm8ts.build/static/js/main.2adb5398.js.map",
     "787.5bafc09a.chunk.js.map": "/dorm8ts.build/static/js/787.5bafc09a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbd8d67e.css",
-    "static/js/main.6cbfc997.js"
+    "static/js/main.2adb5398.js"
   ]
 }
