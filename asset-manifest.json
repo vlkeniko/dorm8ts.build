@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dorm8s.build/static/css/main.e997fc90.css",
-    "main.js": "/dorm8s.build/static/js/main.418e1b75.js",
-    "static/js/787.5bafc09a.chunk.js": "/dorm8s.build/static/js/787.5bafc09a.chunk.js",
-    "static/media/profilepic.jpg": "/dorm8s.build/static/media/profilepic.8ca34c4c25fe112ad730.jpg",
-    "service-worker.js": "/dorm8s.build/service-worker.js",
-    "static/media/bg.png": "/dorm8s.build/static/media/bg.e407e5e0a3fa226e43cd.png",
-    "index.html": "/dorm8s.build/index.html",
-    "main.e997fc90.css.map": "/dorm8s.build/static/css/main.e997fc90.css.map",
-    "main.418e1b75.js.map": "/dorm8s.build/static/js/main.418e1b75.js.map",
-    "787.5bafc09a.chunk.js.map": "/dorm8s.build/static/js/787.5bafc09a.chunk.js.map"
+    "main.css": "/dorm8ts.build/static/css/main.dff212fb.css",
+    "main.js": "/dorm8ts.build/static/js/main.be82f681.js",
+    "static/js/787.5bafc09a.chunk.js": "/dorm8ts.build/static/js/787.5bafc09a.chunk.js",
+    "static/media/profilepic.jpg": "/dorm8ts.build/static/media/profilepic.8ca34c4c25fe112ad730.jpg",
+    "service-worker.js": "/dorm8ts.build/service-worker.js",
+    "static/media/bg.png": "/dorm8ts.build/static/media/bg.e407e5e0a3fa226e43cd.png",
+    "index.html": "/dorm8ts.build/index.html",
+    "main.dff212fb.css.map": "/dorm8ts.build/static/css/main.dff212fb.css.map",
+    "main.be82f681.js.map": "/dorm8ts.build/static/js/main.be82f681.js.map",
+    "787.5bafc09a.chunk.js.map": "/dorm8ts.build/static/js/787.5bafc09a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e997fc90.css",
-    "static/js/main.418e1b75.js"
+    "static/css/main.dff212fb.css",
+    "static/js/main.be82f681.js"
   ]
 }
