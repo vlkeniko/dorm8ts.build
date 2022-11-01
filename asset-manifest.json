@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/dorm8s/static/css/main.463dada3.css",
-    "main.js": "/dorm8s/static/js/main.1146dc1d.js",
-    "static/js/787.5bafc09a.chunk.js": "/dorm8s/static/js/787.5bafc09a.chunk.js",
-    "index.html": "/dorm8s/index.html",
-    "main.463dada3.css.map": "/dorm8s/static/css/main.463dada3.css.map",
-    "main.1146dc1d.js.map": "/dorm8s/static/js/main.1146dc1d.js.map",
-    "787.5bafc09a.chunk.js.map": "/dorm8s/static/js/787.5bafc09a.chunk.js.map"
+    "main.css": "/dorm8s.build/static/css/main.e997fc90.css",
+    "main.js": "/dorm8s.build/static/js/main.418e1b75.js",
+    "static/js/787.5bafc09a.chunk.js": "/dorm8s.build/static/js/787.5bafc09a.chunk.js",
+    "static/media/profilepic.jpg": "/dorm8s.build/static/media/profilepic.8ca34c4c25fe112ad730.jpg",
+    "service-worker.js": "/dorm8s.build/service-worker.js",
+    "static/media/bg.png": "/dorm8s.build/static/media/bg.e407e5e0a3fa226e43cd.png",
+    "index.html": "/dorm8s.build/index.html",
+    "main.e997fc90.css.map": "/dorm8s.build/static/css/main.e997fc90.css.map",
+    "main.418e1b75.js.map": "/dorm8s.build/static/js/main.418e1b75.js.map",
+    "787.5bafc09a.chunk.js.map": "/dorm8s.build/static/js/787.5bafc09a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.463dada3.css",
-    "static/js/main.1146dc1d.js"
+    "static/css/main.e997fc90.css",
+    "static/js/main.418e1b75.js"
   ]
 }
